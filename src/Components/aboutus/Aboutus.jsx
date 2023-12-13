@@ -43,9 +43,9 @@ const aboutus = () => {
           </div>
         </div>
         <div className="profilecard" tabIndex="0">
-          <img className="profileimg" src={snevin} alt="Snevin" />
+          <img className="profileimg" src={snevin} alt="Snevin Leoneel Dsouza" />
           <div className="abttext">
-            <h2 data-splitting="">Snevin</h2>
+            <h2 data-splitting="">Snevin Leoneel Dsouza</h2>
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/snevindsouza/">
                 <img src={Linkdin} alt="" />
