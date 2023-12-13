@@ -1,0 +1,79 @@
+.ContactForm {
+    background: #040523;
+    line-height: 26px;
+    margin: 0;
+  }
+
+.pic {
+  padding: 30px;
+  animation: none;
+}
+
+.heading{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  padding-top: 30px;
+  color: aliceblue;
+}
+.tagline{
+  text-align: center;
+
+  font-size: 20px;
+  color: aliceblue;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .pic {
+    height: 500px;
+    width: 750px;
+  }
+}
+
+@media (max-width: 767px) {
+  .pic {
+    height: 300px;
+    width: 450px;
+  }
+}
+
+  
+  .App {
+    height: 75vh;
+    margin-top: 15vh;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  .formRow {
+    margin: 10px 0 20px 0;
+  }
+
+
+  
+  .formInput {
+    padding: 15px 10px;
+  }
+  
+  .errorMessage {
+    color: #f45532;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .submit-btn {
+    padding: 15px 50px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+  }
+  
+  @media (max-width: 768px) {
+    .submit-message {
+      width: 125px;
+      margin-left: 200px;
+    }
+  }
