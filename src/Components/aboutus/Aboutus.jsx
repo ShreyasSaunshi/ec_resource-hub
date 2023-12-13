@@ -29,7 +29,7 @@ const aboutus = () => {
           </div>
         </div>
         <div className="profilecard" tabIndex="0">
-          <img className="profileimg" src={saurabh} alt="Saurabh Shenoy" />
+          <img className="profileimg" src={saurabh} alt="Sourabh Shenoy" />
           <div className="abttext">
             <h2 data-splitting="">Saurabh Shenoy</h2>
             <div className="social-icon">
