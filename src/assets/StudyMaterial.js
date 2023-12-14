@@ -36,8 +36,8 @@ const third = [
         link:"https://drive.google.com/drive/folders/1cizYi_Lm42ZYUaw11vx9b1GzUN0i9MAY"
     },
     {
-        title: "NETWORK THEORY",
-        description: "NT",
+        title: "NETWORK THEORY AND CONTROL SYSTEM",
+        description: "NTCS",
         imgUrl: subject5,
         link:"https://drive.google.com/drive/folders/14eE2lCkTLTZCuFNgojPcipBQA4skYnyO"
     },
@@ -99,13 +99,13 @@ const fourth = [
         title: "PROBABILITY THEORY AND NUMIRICAL METHODS",
         description: "PTNM",
         imgUrl: subject4,
-        link:"https://drive.google.com/drive/folders/1MAF0gL1jRrbKtBxDkVpn1fTcQJ6ZaPGY?usp=sharing"
+        link:"https://drive.google.com/drive/folders/1pUxZrTr9VtxlZpybskwT3_lYwvYAdY0W"
     },
     {
         title: "INNOVATIONS AND DESIGN THINKING",
         description: "IDT",
         imgUrl: subject2,
-        link:"https://drive.google.com/drive/folders/1HR3Yg1lcca3ADpSKmJ4XhRfNC4ZKgCxd?usp=sharing"
+        link:"https://drive.google.com/drive/folders/1ow5rOCg9XHeHzapgRL3Q3pe399XZydF6"
     },
     {
         title: "SYSTEM VERILOG LAB",
@@ -140,7 +140,7 @@ const fifth = [
         title: "MICROPROCESSOR AND MICROCONTROLLER",
         description: "MPMC",
         imgUrl: subject1,
-        link:"https://drive.google.com/drive/folders/1kA2oz01cPiU4MehYkkgDIj1TarQ70XHp"
+        link:"https://drive.google.com/drive/folders/19Y-QNMKCUOgD25gl1frEL_KNav-rbkSQ"
     },
     {
         title: "VERY LARGE-SCALE INTEGRATION DESIGN",
@@ -178,12 +178,41 @@ const fifth = [
 
 const sixth = [
     {
-        title: "coming soon",
-        description: "coming soon",
-        imgUrl: commingsoon,
-        link:"#"
-        
+        title: "ANTENNA AND MICROWAVE SYSTEMS",
+        description: "AMS",
+        imgUrl: subject3,
+        link:"https://drive.google.com/drive/folders/1WO87CAAJsOwPxBqvgvAm9gjiOxqOjFyd"
     },
+    {
+        title: "COMPUTER NETWORKS",
+        description: "CN",
+        imgUrl: subject2,
+        link:"https://drive.google.com/drive/folders/11jhwjEVCEAuxjlt8B_WPQM4UmYHbeZJI"
+    },
+    {
+        title: "OPERATIONS RESEARCH AND PROJECT MANAGEMENT",
+        description: "ORPM",
+        imgUrl: subject1,
+        link:"https://drive.google.com/drive/folders/12Yy_LoMI5aa4AkSzr3u2LJxC9N6agRw0"
+    },
+    {
+        title: "PROFESSIONAL ELECTIVE COURSE 1",
+        description: "PSC1",
+        imgUrl: subject5,
+        link:"https://drive.google.com/drive/folders/19ejQz2jmwoU5DAoKPFqSeQxjuMgc_DIt"
+    },
+    {
+        title: "OPEN ELECTIVE COURSE 1",
+        description: "OEC1",
+        imgUrl: subject6,
+        link:"https://drive.google.com/drive/folders/1W7kFqtTvbyL3dHnfB5XgaWc7R7DpeVQQ"
+    },
+    {
+        title: "COMMUNICATION LAB",
+        description: "CL",
+        imgUrl: subject8,
+        link:"https://drive.google.com/drive/folders/1-1OmtD1zB6a9ECsVjlqgxERTxrAUaD9N"
+    }
 ];
 
 const seventh = [

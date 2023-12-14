@@ -29,9 +29,9 @@ const aboutus = () => {
           </div>
         </div>
         <div className="profilecard" tabIndex="0">
-          <img className="profileimg" src={saurabh} alt="Saurabh Shenoy" />
+          <img className="profileimg" src={saurabh} alt="Sourabh Shenoy" />
           <div className="abttext">
-            <h2 data-splitting="">Saurabh Shenoy</h2>
+            <h2 data-splitting="">Sourabh Shenoy</h2>
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/sourabh-shenoy-4b8781232/">
                 <img src={Linkdin} alt="" />
@@ -43,9 +43,9 @@ const aboutus = () => {
           </div>
         </div>
         <div className="profilecard" tabIndex="0">
-          <img className="profileimg" src={snevin} alt="Snevin" />
+          <img className="profileimg" src={snevin} alt="Snevin Leoneel Dsouza" />
           <div className="abttext">
-            <h2 data-splitting="">Snevin</h2>
+            <h2 data-splitting="">Snevin Leoneel Dsouza</h2>
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/snevindsouza/">
                 <img src={Linkdin} alt="" />
@@ -74,5 +74,4 @@ const aboutus = () => {
     </div>
   );
 };
-
 export default aboutus;
