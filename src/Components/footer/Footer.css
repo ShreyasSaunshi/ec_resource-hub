@@ -67,4 +67,10 @@ body {
       gap: 20px;
     }
   }
+
+ @media only screen and (max-width: 768px) {
+    svg {
+      transform: scaleY(2) scaleX(1.5);
+    }
+  }
   
