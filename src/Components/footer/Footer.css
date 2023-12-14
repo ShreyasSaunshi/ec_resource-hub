@@ -70,7 +70,7 @@ body {
 
  @media only screen and (max-width: 768px) {
     svg {
-      transform: scaleY(2) scaleX(1.5);
+      transform: scaleY(2) scaleX(1.2);
     }
   }
   
