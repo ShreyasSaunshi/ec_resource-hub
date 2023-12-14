@@ -75,6 +75,6 @@ body {
   }
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
   svg {
-    transform: scaleY(2.5) scaleX(1.5);
+    transform: scaleY(2.5) scaleX(1.2);
   }
 }
