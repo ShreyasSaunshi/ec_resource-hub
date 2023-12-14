@@ -14,22 +14,27 @@ Welcome to EC-Resource Hub, your one-stop destination for free Electronic and Co
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/EC-Resource-HUB.git
+2. **Navigate to the folder**
+   ```bash
    cd EC-Resource-HUB
-2. **Install Dependencies**
+4. **Install Dependencies**
    ```bash
    npm install
-3. **Run the Application**
+5. **Run the Application**
       ```bash
       npm start
-4. **Open in Your Browser**
+6. **Open in Your Browser**
    Visit http://localhost:3000 to explore the EC-Resource Hub
 
 
 ## Contributing
 We welcome contributions from the community! Whether it's fixing a bug, improving documentation, or adding new features, feel free to submit a pull request.
 
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
+-- Fork the repository.
+-- Create a new branch: git checkout -b feature/new-feature.
+-- Make your changes and commit them: git commit -m 'Add new feature'.
+-- Push to the branch: git push origin feature/new-feature.
+-- Submit a pull request.
+
+##Support and Feedback
+If you encounter any issues or have suggestions for improvement, please open an issue. Your feedback is valuable!
