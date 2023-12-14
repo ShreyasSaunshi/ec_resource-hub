@@ -30,11 +30,11 @@ Welcome to EC-Resource Hub, your one-stop destination for free Electronic and Co
 ## Contributing
 We welcome contributions from the community! Whether it's fixing a bug, improving documentation, or adding new features, feel free to submit a pull request.
 
--- Fork the repository.
--- Create a new branch: git checkout -b feature/new-feature.
--- Make your changes and commit them: git commit -m 'Add new feature'.
--- Push to the branch: git push origin feature/new-feature.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/new-feature.
+- Make your changes and commit them: git commit -m 'Add new feature'.
+- Push to the branch: git push origin feature/new-feature.
 -- Submit a pull request.
 
-##Support and Feedback
+## Support and Feedback
 If you encounter any issues or have suggestions for improvement, please open an issue. Your feedback is valuable!
