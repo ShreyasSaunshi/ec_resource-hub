@@ -13,10 +13,10 @@ Welcome to EC-Resource Hub, your one-stop destination for free Electronic and Co
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/EC-Resource-HUB.git
+   https://github.com/ec-resources/ec_resource-hub.git
 2. **Navigate to the folder**
    ```bash
-   cd EC-Resource-HUB
+   cd ec_resource-hub
 4. **Install Dependencies**
    ```bash
    npm install
